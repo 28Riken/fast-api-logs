@@ -1,0 +1,96 @@
+2024-01-17 14:48:16,944 - root - WARNING - This is a warning message.
+2024-01-17 14:48:22,911 - root - WARNING - This is a warning message.
+2024-01-17 14:54:04,014 - root - WARNING - This is a warning message.
+2024-01-17 14:55:06,217 - root - WARNING - This is a warning message.
+2024-01-17 15:05:21,519 - root - WARNING - This is a warning message.
+2024-01-17 15:05:53,396 - root - WARNING - This is a warning message.
+2024-01-17 15:06:19,094 - root - WARNING - This is a warning message.
+2024-01-17 15:07:03,054 - root - WARNING - This is a warning message.
+2024-01-17 15:07:39,624 - root - WARNING - This is a warning message.
+2024-01-17 15:07:43,193 - root - WARNING - This is a warning message.
+2024-01-17 15:08:12,565 - root - WARNING - This is a warning message.
+2024-01-17 15:08:12,565 - root - ERROR - This is an error message.
+2024-01-17 15:09:35,414 - root - WARNING - This is a warning message.
+2024-01-17 15:44:23,999 - uvicorn.error - ERROR - Traceback (most recent call last):
+  File "/home/riken/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2024-01-17 15:53:30,986 - root - WARNING - This is a warning message.
+2024-01-17 15:53:31,066 - root - ERROR - This is an error message.
+2024-01-17 15:53:42,119 - root - WARNING - This is a warning message.
+2024-01-17 15:53:42,119 - root - ERROR - This is an error message.
+2024-01-17 15:53:49,119 - root - WARNING - This is a warning message.
+2024-01-17 15:53:49,119 - root - ERROR - This is an error message.
+2024-01-17 15:54:21,574 - root - WARNING - This is a warning message.
+2024-01-17 15:54:21,574 - root - ERROR - This is an error message.
+2024-01-17 15:54:27,556 - root - WARNING - This is a warning message.
+2024-01-17 15:54:27,557 - root - ERROR - This is an error message.
+2024-01-17 15:54:32,090 - root - WARNING - This is a warning message.
+2024-01-17 15:54:32,091 - root - ERROR - This is an error message.
+2024-01-17 15:54:35,944 - root - WARNING - This is a warning message.
+2024-01-17 15:54:35,944 - root - ERROR - This is an error message.
+2024-01-17 15:54:41,917 - root - WARNING - This is a warning message.
+2024-01-17 15:54:41,921 - root - ERROR - This is an error message.
+2024-01-17 15:54:48,364 - root - WARNING - This is a warning message.
+2024-01-17 15:54:48,365 - root - ERROR - This is an error message.
+2024-01-17 15:54:50,655 - root - WARNING - This is a warning message.
+2024-01-17 15:54:50,655 - root - ERROR - This is an error message.
+2024-01-17 15:54:56,890 - root - WARNING - This is a warning message.
+2024-01-17 15:54:56,890 - root - ERROR - This is an error message.
+2024-01-17 16:07:14,650 - uvicorn.error - ERROR - Traceback (most recent call last):
+  File "/home/riken/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2024-01-17 16:10:13,254 - root - WARNING - This is a warning message.
+2024-01-17 16:10:13,254 - root - ERROR - This is an error message.
+2024-01-17 16:10:28,945 - root - WARNING - This is a warning message.
+2024-01-17 16:10:28,947 - root - ERROR - This is an error message.
+2024-01-17 16:10:37,421 - root - WARNING - This is a warning message.
+2024-01-17 16:10:37,421 - root - ERROR - This is an error message.
+2024-01-17 16:10:41,759 - root - WARNING - This is a warning message.
+2024-01-17 16:10:41,759 - root - ERROR - This is an error message.
+2024-01-17 16:11:14,891 - root - WARNING - This is a warning message.
+2024-01-17 16:11:14,891 - root - ERROR - This is an error message.
+2024-01-17 16:11:17,544 - root - WARNING - This is a warning message.
+2024-01-17 16:11:17,544 - root - ERROR - This is an error message.
+2024-01-17 16:11:30,443 - root - WARNING - This is a warning message.
+2024-01-17 16:11:30,443 - root - ERROR - This is an error message.
+2024-01-17 16:11:41,337 - root - WARNING - This is a warning message.
+2024-01-17 16:11:41,337 - root - ERROR - This is an error message.
+2024-01-17 16:11:52,050 - root - WARNING - This is a warning message.
+2024-01-17 16:11:52,050 - root - ERROR - This is an error message.
+2024-01-17 16:12:00,408 - root - WARNING - This is a warning message.
+2024-01-17 16:12:00,408 - root - ERROR - This is an error message.
+2024-01-17 16:12:03,235 - root - WARNING - This is a warning message.
+2024-01-17 16:12:03,235 - root - ERROR - This is an error message.
+2024-01-17 16:12:10,213 - root - WARNING - This is a warning message.
+2024-01-17 16:12:10,213 - root - ERROR - This is an error message.
+2024-01-17 16:12:11,968 - root - WARNING - This is a warning message.
+2024-01-17 16:12:11,968 - root - ERROR - This is an error message.
+2024-01-17 16:12:15,564 - root - WARNING - This is a warning message.
+2024-01-17 16:12:15,564 - root - ERROR - This is an error message.
+2024-01-17 16:12:21,932 - root - WARNING - This is a warning message.
+2024-01-17 16:12:21,932 - root - ERROR - This is an error message.
+2024-01-17 16:12:27,967 - root - WARNING - This is a warning message.
+2024-01-17 16:12:27,967 - root - ERROR - This is an error message.
+2024-01-17 16:12:31,062 - root - WARNING - This is a warning message.
+2024-01-17 16:12:31,062 - root - ERROR - This is an error message.
+2024-01-17 16:16:39,349 - uvicorn.error - ERROR - Traceback (most recent call last):
+  File "/home/riken/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
